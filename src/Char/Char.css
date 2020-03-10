@@ -1,0 +1,10 @@
+.charList {
+    display: inline-block;
+    padding: 16px;
+    margin: 16px;
+    border: 1px solid black;
+    text-align: center;
+    color: rgba(23, 56, 4, 0.404);
+    background-color: rgba(122, 5, 5, 0.192);
+    font-size: 30px;
+}
